@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h3 {
+  font-size: 23px !important;
+}
+
+#startButton {
+    width: 7%;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+canvas {
+    margin-top: 80px;
+}
